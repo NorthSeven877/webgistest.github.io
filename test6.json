@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.3,
+                "place": "53 km SE of Angoram, Papua New Guinea",
+                "time": 1746506372311,
+                "updated": 1746507243040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxfh",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxfh.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 432,
+                "net": "us",
+                "code": "7000pxfh",
+                "ids": ",us7000pxfh,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 69,
+                "dmin": 3.826,
+                "rms": 0.62,
+                "gap": 36,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.3 - 53 km SE of Angoram, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [144.368, -4.4422, 135.052]
+            },
+            "id": "us7000pxfh"
+        },
+        // 此处省略了其他地震数据对象，格式与上述类似
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.5,
+                "place": "26 km E of Adak, Alaska",
+                "time": 1746429960395,
+                "updated": 1746457361349,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255quhzpl",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255quhzpl.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 96,
+                "net": "ak",
+                "code": "0255quhzpl",
+                "ids": ",ak0255quhzpl,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.27,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.5 - 26 km E of Adak, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-176.2501, 51.8531, 75.4]
+            },
+            "id": "ak0255quhzpl"
+        }
+    ],
+    "bbox": [-176.6961, -57.4967, 2.9800000190735, 152.8187, 64.6197, 417.865]
+}
